@@ -9,7 +9,7 @@ MSAL for WebAPI on Crystal
    ```yaml
    dependencies:
      msal:
-       github: dukeraphaelng/msal
+       github: place-labs/msal.cr
    ```
 
 2. Run `shards install`
@@ -28,7 +28,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/dukeraphaelng/msal/fork>)
+1. Fork it (<https://github.com/place-labs/msal/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Duke Nguyen](https://github.com/dukeraphaelng) - creator and maintainer
+- [Duke Nguyen](https://github.com/place-labs) - creator and maintainer
