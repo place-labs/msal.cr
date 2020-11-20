@@ -1,0 +1,9 @@
+name: msal
+version: 0.1.0
+
+authors:
+  - Duke Nguyen <duke@place.technology>
+
+crystal: 0.35.1
+
+license: MIT
